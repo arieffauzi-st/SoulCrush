@@ -1,0 +1,9 @@
+.display-9 {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); 
+}
+  .romantic-text {
+    font-family: 'Dancing Script', cursive; 
+    font-size: 3rem;
+    color: #663399; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  }
